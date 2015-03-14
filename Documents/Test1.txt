@@ -3,4 +3,8 @@
 789
 master
 develop
+<<<<<<< HEAD
 master
+=======
+bug1
+>>>>>>> bug1
